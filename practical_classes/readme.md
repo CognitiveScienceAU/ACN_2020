@@ -7,3 +7,5 @@ jupytr, numpy, and mne
 MNE-python basics and basic global field potentials
 ## Week 3
 Frequency and time-frequency analysis of neural signals
+## Week 4
+Coherence and ITC
